@@ -16,3 +16,5 @@ matrix:
   allow_failures:
     - jdk: openjdk-ea
     - jdk: oraclejdk-ea
+
+    
